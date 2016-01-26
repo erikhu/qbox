@@ -1,0 +1,47 @@
+
+submenu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fail
+  rotate: false
+  xy: 1, 149
+  size: 329, 95
+  orig: 329, 95
+  offset: 0, 0
+  index: -1
+win
+  rotate: false
+  xy: 1, 52
+  size: 322, 95
+  orig: 322, 95
+  offset: 0, 0
+  index: -1
+next
+  rotate: false
+  xy: 332, 151
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 510, 162
+  size: 156, 82
+  orig: 156, 82
+  offset: 0, 0
+  index: -1
+replay
+  rotate: false
+  xy: 668, 167
+  size: 145, 77
+  orig: 145, 77
+  offset: 0, 0
+  index: -1
+reset
+  rotate: false
+  xy: 1, 1
+  size: 102, 49
+  orig: 102, 49
+  offset: 0, 0
+  index: -1

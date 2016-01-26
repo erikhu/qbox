@@ -1,0 +1,89 @@
+
+cuadros.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+amarillo_oscuro
+  rotate: false
+  xy: 1, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+morado
+  rotate: false
+  xy: 63, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+morado_oscuro
+  rotate: false
+  xy: 125, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+gris
+  rotate: false
+  xy: 187, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+verde_oscuro
+  rotate: false
+  xy: 249, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+blanco
+  rotate: false
+  xy: 311, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+amarrillo
+  rotate: false
+  xy: 373, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+rojo
+  rotate: false
+  xy: 435, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+azul_oscuro
+  rotate: false
+  xy: 497, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+verde
+  rotate: false
+  xy: 559, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+azul
+  rotate: false
+  xy: 621, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+rojo_oscuro
+  rotate: false
+  xy: 683, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

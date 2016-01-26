@@ -1,0 +1,12 @@
+d::0:application/unknown
+d:imagenes:0:application/unknown
+t:imagenes/colores.atlas:341:application/unknown
+i:imagenes/colores.png:945:image/png
+t:imagenes/cuadros.atlas:1208:application/unknown
+i:imagenes/cuadros.png:3075:image/png
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5068:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:8574:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:549:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2687:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png
